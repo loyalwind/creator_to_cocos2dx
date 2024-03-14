@@ -1,7 +1,7 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-This repository forked from [develop/creator_to_cocos2dx](https://github.com/cocos2d/creator_to_cocos2dx)
+This repository forked from [develop/creator_to_cocos2dx](https://github.com/cocos2d/creator_to_cocos2dx) and refer to [Kuovane/creator_to_cocos2dx](https://github.com/Kuovane/creator_to_cocos2dx)
 
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
